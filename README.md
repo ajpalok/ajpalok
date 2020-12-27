@@ -4,7 +4,7 @@
 <a href="https://twitter.com/aj_palok" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abrar jahin instagram account" height="20" width="20" /></a>
 </p>
 
-<h3 align="center">A student from Bangladesh 🇧🇩 with the sprite of coding for **Humans**...</h3>
+<h3 align="center">A student from Bangladesh 🇧🇩 with the sprite of coding for Humans...</h3>
 
 - 🔭 I’m currently working on [2HAAS](https://github.com/2HAAS)...
 - 🌱 I’m currently learning **HTML5, CSS3, SASS, JavaScript, Liquid, Python, CCNA**
