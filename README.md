@@ -4,11 +4,11 @@
 <a href="https://twitter.com/aj_palok" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abrar jahin instagram account" height="20" width="20" /></a>
 </p>
 
-<h3 align="center">A student from Bangladesh with the sprite of coding for human..</h3>
+<h3 align="center">A student from Bangladesh 🇧🇩 with the sprite of coding for **Humans**...</h3>
 
-- 🔭 I’m currently working on [https://github.com/2HAAS](2HAAS)...
+- 🔭 I’m currently working on [2HAAS](https://github.com/2HAAS)...
 - 🌱 I’m currently learning **HTML5, CSS3, SASS, JavaScript, Liquid, Python, CCNA**
-- 📫 How to reach me: [m.me/aj.palok5](Abrar Jahin)
+- 📫 How to reach me: [Abrar Jahin](m.me/aj.palok5)
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: I love to make [drawings](https://2haas.ml)🤓
 <!--
