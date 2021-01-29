@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [2HAAS](https://github.com/2HAAS)...
 - 🌱 I’m currently learning **HTML5, CSS3, SASS, JavaScript, Liquid, Python, CCNA**
-- 📫 How to reach me: [Abrar Jahin](m.me/aj.palok5)
+- 📫 How to reach me: [Abrar Jahin](https://m.me/aj.palok5)
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: I love to make [drawings](https://2haas.ml)🤓
 <!--
