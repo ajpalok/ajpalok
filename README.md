@@ -28,7 +28,7 @@
 <p style="text-align: center;
         font-size: 20px;
         font-weight: bold;
-        margin-bottom: 30px;">Visit to my <a href="ajpalok.github.io">Portfolio</a> to know more about me... 😊 </p>
+        margin-bottom: 30px;">Visit to my <a href="https://ajpalok.github.io">Portfolio</a> to know more about me... 😊 </p>
 
 - 🔭 I’m currently working on [2HAAS](https://github.com/2HAAS)...
 - 📫 How to reach me: [Abrar Jahin](https://m.me/ajpalok.fb)
