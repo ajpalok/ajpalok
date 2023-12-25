@@ -1,15 +1,50 @@
+<style>
+    .badges {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 30px;
+    }
+    .badges img {
+        margin: 0 10px;
+        border-radius: 10px;
+    }
+    .Portfolio {
+        text-align: center;
+        font-size: 20px;
+        font-weight: bold;
+        margin-bottom: 30px;
+    }
+</style>
+
+
+<img src="https://media.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif" width="100%" height="100%" style="margin-bottom:30px;">
+
+
 <h1 align="center">Hi 👋, I'm Abrar Jahin</h1>
 <p align="center">
-<a href="https://facebook.com/aj.palok5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="abrar jahin facebook account" height="40" width="40"/></a>
-<a href="https://instagram.com/aj.palok" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abrar jahin instagram account" height="40" width="40"/></a>
-</p>
+
+<div class="badges">
+  <a href="https://linkedin.com/in/ajpalok/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://facebook.com/ajpalok.fb">
+    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://twitter.com/ajpalok">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <h3 align="center">Student from Bangladesh 🇧🇩 with the sprite of coding for Humans...</h3>
 
+<img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="100%" height="100%" style="margin-bottom:30px;">
+
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ajpalok&theme=onedark" alt="ajpalok" /></p>
 
+<p class="Portfolio">Visit to my <a href="ajpalok.github.io">Portfolio</a> to know more about me... 😊 </p>
+
 - 🔭 I’m currently working on [2HAAS](https://github.com/2HAAS)...
-- 🌱 I’m currently learning **HTML5, CSS3, SASS, JavaScript, Liquid, Python, CCNA**
 - 📫 How to reach me: [Abrar Jahin](https://m.me/ajpalok.fb)
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: I love to make [drawings](https://2haas.com)🤓
