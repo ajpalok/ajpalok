@@ -1,0 +1,92 @@
+#hero{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100svh;
+}
+
+.icon-index-hero{
+    fill: var(--aj-dark);
+    border-top: 3px solid var(--aj-dark);
+    border-left: 3px solid var(--aj-primary);
+    border-bottom: 3px solid var(--aj-dark);
+    border-right: 3px solid var(--aj-primary);
+    border-radius: 50px;
+    width: 45px;
+    height: 45px;
+    padding: 3px;
+    margin-bottom: 1rem;
+    :hover{
+        fill: var(--aj-primary);
+        border-bottom: 2px solid var(--aj-primary);
+        border-radius: 50px;
+    }
+}
+
+.projects_link{
+    fill: var(--aj-primary);
+    margin-left: 1rem;
+}
+
+.project-card-holder{
+    @media screen and (max-width: 768px){
+        width: 100%;
+    }
+    .project-card-left{
+        max-width: 25%;
+        min-width: 40vw;
+        padding-top: 1rem;
+        margin-left: 20vw;
+        margin-bottom: 5rem;
+        border-radius:0 20%;
+        transform: rotate(-10deg);
+        @media screen and (max-width: 768px){
+            min-width: 100%;
+            border-radius: 0;
+            margin-left: 0;
+            margin-bottom: 0;
+            transform: rotate(0deg);
+        }
+    }
+    .project-card-right{
+        max-width: 25%;
+        min-width: 40vw;
+        padding-top: 1rem;
+        margin-right: 20vw;
+        margin-bottom: 5rem;
+        border-radius:0 20%;
+        transform: rotate(10deg);
+        @media screen and (max-width: 768px){
+            min-width: 100%;
+            border-radius: 0;
+            margin-right: 0;
+            margin-bottom: 0;
+            transform: rotate(0deg);
+        }
+    }
+}
+
+.skills{
+    background-color: var(--aj-gray-100);
+    .skill-container{
+        width: 80%;
+        max-width: 46rem;
+        // border: 1px solid var(--aj-dark);
+        // border-radius: 0 2rem;
+        margin: 0 auto;
+        text-align: center;
+        .skill-level{
+            font-family: Roboto;
+            font-weight: 600;
+        }
+    }
+}
+
+.skill-level::before{
+    content: open-quote;
+}
+
+.skill-level::after{
+    content: close-quote;
+}

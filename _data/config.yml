@@ -1,0 +1,19 @@
+# Site details
+main_title: Abrar's Portfolio
+description: >- # here a description for my portfolio where user will be able to see my works and projects
+  I am Abrar Jahin, a student of Computer Science and Engineering at United International University. I am a passionate programmer and a web developer.
+  I love to learn new things and I am always curious about how things work. I am a fast learner and I love to work with new technologies.
+
+# Site settings
+logo: "https://0.gravatar.com/avatar/1b65d7b912dbb973c6a2a1a2f0a645ae?size="
+logo_alt_text: "Abrar's Image"
+language: en
+
+# Social links
+facebook_username: ajpalok.fb
+instagram_username: ajpalok_insta
+twitter_username: ajpalok
+github_username:  ajpalok
+linkedin_username: ajpalok
+youtube_username: ajpalok
+telegram_username: ajpalok

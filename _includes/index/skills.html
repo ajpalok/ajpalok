@@ -1,0 +1,78 @@
+<section class="skills py-5 w-100">
+    <div class="row py-md-4 mx-0">
+        <div class="col-lg-6 col-md-8 mx-auto">
+        <h2 class="display-3 text-center">Skills</h2>
+        <p class="text-body-secondary text-center py-4">{{ site.data.author.skills.description }}</p>
+        </div>
+    </div>
+
+
+    <div class="skill-container mx-auto mb-4">
+        <ul class="nav nav-tabs">
+            <li class="nav-item">
+              <span class="nav-link active">All</span>
+            </li>
+            <li class="nav-item">
+              <span class="nav-link">Languages</span>
+            </li>
+            <li class="nav-item">
+              <span class="nav-link">Frameworks</span>
+            </li>
+            <li class="nav-item">
+              <span class="nav-link">Tools</span>
+            </li>
+          </ul>
+    {% for s in site.data.author.skills.languages %}
+        <span style="color:{{s.color}};" data-skill-level="{{ s.level }}" data-skill-type="languages" class="skill-level">{{ s.skill }}</span>
+    {% endfor %}
+    {% for s in site.data.author.skills.frameworks %}
+        <span style="color:{{s.color}};" data-skill-level="{{ s.level }}" data-skill-type="frameworks" class="skill-level">{{ s.skill }}</span>
+    {% endfor %}
+    {% for s in site.data.author.skills.tools %}
+        <span style="color:{{s.color}};" data-skill-level="{{ s.level }}" data-skill-type="tools" class="skill-level">{{ s.skill }}</span>
+    {% endfor %}
+    </div>
+</section>
+
+<script>
+    document.querySelectorAll('.skill-level').forEach(function(skill) {
+        var level = skill.getAttribute('data-skill-level');
+        skill.style.display = 'inline-block';
+        if(window.innerWidth>768) skill.style.fontSize = level*1.25 + 'rem';
+        else if(window.innerWidth>300) skill.style.fontSize = level*.75 + 'rem';
+        else skill.style.fontSize = level*.45 + 'rem';
+        window.addEventListener('resize', function() {
+            if(window.innerWidth>768) skill.style.fontSize = level*1.25 + 'rem';
+            else if(window.innerWidth>300) skill.style.fontSize = level*.75 + 'rem';
+            else skill.style.fontSize = level*.45 + 'rem';
+        });
+    });
+
+    document.querySelectorAll('.nav-link').forEach(
+        function(link) {
+            link.addEventListener('click', function() {
+                link.classList.add('active');
+                document.querySelectorAll('.nav-link').forEach(
+                    function(l) {
+                        if (l != link) {
+                            l.classList.remove('active');
+                        }
+                    }
+                );
+                var type = this.innerHTML.toLowerCase();
+                document.querySelectorAll('.skill-level').forEach(
+                    function(skill) {
+                        if (type == 'all') {
+                            skill.style.display = 'inline-block';
+                            
+                        } else if (skill.getAttribute('data-skill-type') == type) {
+                            skill.style.display = 'inline-block';
+                        } else {
+                            skill.style.display = 'none';
+                        }
+                    }
+                );
+            });
+        }
+    );
+</script>
