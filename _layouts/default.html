@@ -20,7 +20,7 @@ layout: default
     <main id="mainContent">
         {{content}}
     </main>
-
+    {%- include footer.html %}
     <script>
         document.getElementById('mainContent').style.marginTop = `${document.querySelector(".navbar").offsetHeight}px`;
     </script>
