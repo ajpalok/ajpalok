@@ -4,39 +4,45 @@
             <h3 class="display-3 text-center">Blogs</h3>
         </div>
         <div class="album py-5">
-            <div class="container">
-    
-                <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-                    {% for blog in site.posts %}
-                    <div class="col">
-                        <div class="card shadow-sm">
-                          <div class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/div">
-                          {% if blog.image %}
-                            <img width="100%" src="{{ blog.image }}" alt="{{ blog.title | append: ' Image' }}">
-                          {% else %}
-                            <div style="height:125px;" class="w-100 bg-body-tertiary"></div>
-                          {% endif %}
-                          </div>
-                          <div class="card-body">
-                            <p class="card-text">{{ blog.title | strip_html | truncate: 70 }}</p>
-                            <div class="d-flex justify-content-between align-items-center">
-                              <small class="text-body-secondary"></small>
-                              <div class="btn-group">
-                                <a href="{{blog.url}}" type="button" class="btn btn-sm btn-outline-primary">
-                                  Read 
-                                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
-                                    <use xlink:href="#box-arrow-right"/>
-                                  </svg>
-                                </a>
-                              </div>
-                            </div>
-                          </div>
+          <div class="container">
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+                {% for blog in site.posts %}
+                <div class="col">
+                  <div class="card shadow-sm">
+                    <div class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/div">
+                    {% if blog.image %}
+                      <img width="100%" src="{{ blog.image }}" alt="{{ blog.title | append: ' Image' }}">
+                    {% else %}
+                      <div style="height:125px;" class="w-100 bg-body-tertiary"></div>
+                    {% endif %}
+                    </div>
+                    <div class="card-body">
+                      <p class="card-text">{{ blog.title | strip_html | truncate: 70 }}</p>
+                      <div class="d-flex justify-content-between align-items-center">
+                        <small class="text-body-secondary"></small>
+                        <div class="btn-group">
+                          <a href="{{blog.url}}" type="button" class="btn btn-sm btn-outline-primary">
+                            Read 
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                              <use xlink:href="#box-arrow-right"/>
+                            </svg>
+                          </a>
                         </div>
                       </div>
-                      {% endfor %}
                     </div>
+                  </div>
                 </div>
+                {% endfor %}
             </div>
+
+            <a class="h2 text-center d-flex justify-content-center pt-8 mb-0" href="/blog">
+              See All Blogs
+              <svg class="projects_link" width="30" height="30">
+                <use xlink:href="#box-arrow-right"></use>
+              </svg>
+            </a>
+
+          </div>
         </div>
     </div>
 </section>

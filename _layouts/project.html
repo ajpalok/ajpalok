@@ -1,4 +1,24 @@
 ---
 layout: default
 ---
-{{content}}
+<div class="w-100">
+    <div class="card mx-auto" style="max-width: 75ch; margin-top: 5rem; border: none;">
+        <img src="{{page.image}}" class="card-img-top" width="100%" alt="{{page.title}}">
+        <div class="card-body">
+            <h5 class="card-title h1">{{page.name}}</h5>
+            <p class="card-text">
+                {{content | markdownify}}
+            </p>
+            {% if page.code_link %}
+            <a href="{{page.code_link}}" class="btn btn-primary">Get the Codes</a>
+            {% endif %}
+            {% if page.web_url %}
+            <a href="{{page.web_url}}" class="btn btn-primary">Live Demo</a>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+<div>
+    
+</div>
