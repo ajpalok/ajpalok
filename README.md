@@ -80,11 +80,11 @@
 ![Abrar's Top Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajpalok&theme=synthwave)
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 ![Abrar's GitHub Streak](https://streak-stats.demolab.com?user=ajpalok&theme=synthwave&hide_border=true)
 
-</div>
+</div> -->
 
 ## 💼 About Me
 
