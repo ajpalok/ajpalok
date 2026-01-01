@@ -82,7 +82,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ajpalok&theme=synthwave&hide_border=true)
+![Abrar's GitHub Streak](https://streak-stats.demolab.com?user=ajpalok&theme=synthwave&hide_border=true)
 
 </div>
 
