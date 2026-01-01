@@ -2,9 +2,24 @@
   <img src="https://media.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif" width="100%" height="100%">
 </div>
 
-<h1 align="center">Hi 👋, I'm Abrar Jahin</h1>
+<h1 align="center" style="margin:30px 0; font-size:40px">Hi 👋, I'm Abrar Jahin</h1>
 
-<h3 align="center">Student from Bangladesh 🇧🇩 with the sprite of coding for Humans...</h3>
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The+reason+I+become+coffee+addict:&font=Baloo+Da+2&center=true&width=440&height=50&color=ef46a4&vCenter=true&size=28&repeat=false)
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ruby+on+Rails;Laravel;Jekyll;PHP;React;Vue+JS;WordPress&font=Baloo+Da+2&center=true&width=200&height=50&color=fff&background=ef46a4&vCenter=true&size=22&pause=2000&duration=1500)
+
+</div>
+<!-- <h3 align="center">Student from Bangladesh 🇧🇩 with the sprite of coding for Humans...</h3> -->
+
+<div align="center">
+
+![You are 1 among](https://komarev.com/ghpvc/?username=ajpalok&style=for-the-badge&color=blueviolet&label=You+are+1+among)
+
+</div>
+
+---
 
 <div align="center">
   
@@ -23,7 +38,9 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="100%" height="100%">
+
+![Cat Typing GIF](./images/cat.gif)
+
 </div>
 
 ---
@@ -32,7 +49,39 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ajpalok&theme=radical&hide_border=false)
+![I Came, I Saw, I Committed](https://github-readme-activity-graph.vercel.app/graph?username=ajpalok&custom_title=I%20Came%2C%20I%20Saw%2C%20I%20Committed&bg_color=0D1117&color=ef46a4&line=ef46a4&point=c9d1d9&area_color=0D1117&title_color=ef46a4&area=true&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![I Came, I Saw, I Committed](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajpalok&theme=synthwave&utcOffset=6)
+
+</div>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajpalok&theme=synthwave)
+
+</div>
+
+<div align="center">
+
+![Abrar's GitHub stats](https://github-readme-stats-omega-gray-krff7vfwaw.vercel.app/api?username=ajpalok&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=ef46a4&icon_color=ef46a4&text_color=c9d1d9&count_private=true&include_all_commits=true)
+
+</div>
+
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+
+![Abrar's Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajpalok&theme=synthwave)
+
+
+![Abrar's Top Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajpalok&theme=synthwave)
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ajpalok&theme=synthwave&hide_border=true)
 
 </div>
 
@@ -177,12 +226,12 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajpalok&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-</p>
-
 <div align="center">
   
   ### 💬 Let's Connect and Build Something Amazing Together!
   
+  [![Contact Me](https://readme-typing-svg.demolab.com?font=Baloo+Da+2&weight=600&size=40&pause=1000&color=EF46A4&center=true&vCenter=true&repeat=false&width=456&height=72&lines=Contact+Me)](https://ajpalok.github.io/#contact)
 </div>
+
+
+![](https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/bisbiswas-lit-up-sky.jpg)
