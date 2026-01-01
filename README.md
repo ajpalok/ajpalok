@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif" width="100%" height="100%">
 </div>
 
-<h1 align="center" style="margin:30px 0; font-size:40px">Hi 👋, I'm Abrar Jahin</h1>
+
+![Hi 👋, I'm Abrar Jahin](https://capsule-render.vercel.app/api?type=venom&height=400&color=0:ef46a4,100:740cc9&text=Abrar%20Jahin&fontSize=90&textBg=false&animation=twinkling&stroke=000000&fontColor=ffffff&strokeWidth=3)
 
 <div align="center">
 
