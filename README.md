@@ -1,9 +1,12 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif" width="100%" height="100%">
+  <img src="https://media.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif" width="70%" height="70%">
 </div>
 
+<div align="center">
 
-![Hi 👋, I'm Abrar Jahin](https://capsule-render.vercel.app/api?type=venom&height=400&color=0:ef46a4,100:740cc9&text=Abrar%20Jahin&fontSize=90&textBg=false&animation=twinkling&stroke=000000&fontColor=ffffff&strokeWidth=3)
+  ![Hi 👋, I'm Abrar Jahin](https://capsule-render.vercel.app/api?type=venom&height=400&color=0:ef46a4,100:740cc9&text=Abrar%20Jahin&fontSize=90&textBg=false&animation=twinkling&stroke=000000&fontColor=ffffff&strokeWidth=3)
+
+</div>
 
 <div align="center">
 
@@ -56,29 +59,10 @@
 
 <div align="center">
 
-![I Came, I Saw, I Committed](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajpalok&theme=synthwave&utcOffset=6)
-
-</div>
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajpalok&theme=synthwave)
-
-</div>
-
-<div align="center">
-
 ![Abrar's GitHub stats](https://github-readme-stats-omega-gray-krff7vfwaw.vercel.app/api?username=ajpalok&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=ef46a4&icon_color=ef46a4&text_color=c9d1d9&count_private=true&include_all_commits=true)
 
 </div>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-
-![Abrar's Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajpalok&theme=synthwave)
-
-
-![Abrar's Top Commit Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajpalok&theme=synthwave)
-</div>
 
 <!-- <div align="center">
 
